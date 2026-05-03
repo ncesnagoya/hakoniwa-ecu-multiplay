@@ -1,0 +1,10 @@
+[submodule "atk2-sc1"]
+	path = atk2-sc1
+	url = https://github.com/toppers/atk2-sc1.git
+[submodule "a-comstack"]
+	path = a-comstack
+	url = https://github.com/toppers/a-comstack.git
+[submodule "a-rtegen"]
+	path = a-rtegen
+	url = https://github.com/toppers/a-rtegen.git
+	branch = v1.3.0
